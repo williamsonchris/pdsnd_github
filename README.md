@@ -1,15 +1,30 @@
-### Date created
+<<<<<<< HEAD
+### 11/14/2018
 Include the date you created this project and README file.
 
-### Project Title
+### Bikeshare
 Replace the Project Title
 
-### Description
+### Analyzing bikeshare data
 Describe what your project is about and what it does
 
-### Files used
+### A couple of CSV files.
 Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Didn't track it and don't have time! 
+=======
+### Wednesday November 14, 2018
+Include the date you created this project and README file.
 
+### Bikeshare Project
+Replace the Project Title
+
+### Analyzed bikeshare data
+Describe what your project is about and what it does
+
+### Several city CSV files. Specifically, chicago.csv, new_york_city.csv, washington.csv.
+Include the files used
+
+### I didn't track this and don't have time to go back! 
+>>>>>>> documentation
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
