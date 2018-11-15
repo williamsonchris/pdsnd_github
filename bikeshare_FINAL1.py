@@ -78,6 +78,7 @@ def load_data(city, month, day):
 
        except:
            print('Please try again')
+           print('Look at me I am refactoring')
            city, month, day = get_filters()
            break
 
@@ -98,6 +99,7 @@ def time_stats(df):
     print('The most common month is {}'.format(common_month))
     print('The most common day is {}'.format(common_day))
     print('The most common hour is {}'.format(common_hours))
+    print('also refactoring here')
 
     print("\nThis took %s seconds." % (time.time() - start_time))
 
